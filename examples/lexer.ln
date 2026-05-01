@@ -1,0 +1,7 @@
+#define main 1g
+
+init:
+spawn main
+
+main:
+alpha 2g, 0.5, 0.0
